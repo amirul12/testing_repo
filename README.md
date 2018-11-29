@@ -7,7 +7,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/14282562/49223467-03c62380-f409-11e8-9162-b2f728a247be.jpg)  |  ![](https://user-images.githubusercontent.com/14282562/49223467-03c62380-f409-11e8-9162-b2f728a247be.jpg)
+<kbd>![](https://user-images.githubusercontent.com/14282562/49223467-03c62380-f409-11e8-9162-b2f728a247be.jpg) </kbd> |<kbd>  ![](https://user-images.githubusercontent.com/14282562/49223467-03c62380-f409-11e8-9162-b2f728a247be.jpg)</kbd>
 
 
 [Mobile iOS](http://itech-softsolutions.com/)
